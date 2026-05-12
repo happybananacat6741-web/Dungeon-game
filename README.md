@@ -71,5 +71,4 @@ Fire Scroll
 React (useState, useEffect, useCallback)
 Pure CSS for styling
 No game libraries or external dependencies
-📄 License
-MIT — free to use, modify, and share.
+>
